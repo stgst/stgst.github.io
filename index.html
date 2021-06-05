@@ -2,8 +2,50 @@
 <html>
     <head>
         <title>Xiung > Got It</title>
-        <meta unicode='utf8'>
+        <meta charest='utf8'>
         <link href='style.css' rel='stylesheet'>
         <link href='https://raw.githubusercontent.com/stgst/stgst.github.io/master/shortcut.ico' rel='Shorcut icon'>
     </head>
+    <body>
+        <div class='title'>
+            <span class='gotit'>Got It</span>
+            <br>
+            <span class='something'>Something</span>
+        </div>
+    </body>
 </html>
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Roboto&display=swap');
+
+    body {
+        background-color: rgb(44, 44, 44);
+    }
+    .title {
+        font-family: 'Fredoka One', cursive;
+        font-size: 5rem;
+        text-align: center;
+        margin-top: 3rem;
+    }
+    .gotit {
+        background: linear-gradient(120deg,#61ff66, #ffff61);
+        background-clip: text;
+        -webkit-background-clip: text;
+        color: transparent;
+        animation: zoom 2s 4 ease;
+    }
+    .something {
+        background: linear-gradient(120deg,#b061ff, #61ffff);
+        background-clip: text;
+        -webkit-background-clip: text;
+        color: transparent;
+        animation: zoom 2s 4 ease;
+    }
+    @keyframes zoom {
+        from {
+            font-size: 5.5rem;
+        }
+        to {
+            font-size: 7rem;
+        }
+    }
+</style>
