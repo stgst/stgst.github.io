@@ -4,7 +4,7 @@
 
 ### ISIP
 - AIS3 Junior 2022
-- MyFirstCTF 2024
+- MyFirstCTF 2024 rk.10
 - AIS3 2024
 
 ### Events
