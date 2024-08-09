@@ -16,7 +16,7 @@
 - Taipei Digital Experimental High School `( Expected Graduation: June 2026 )`
 - Taipei Municipal Dong-Hu Junior High School
 
-::github{repo="stgst/Blog"}
+::github{repo="stgst/stgst.github.io"}
 <!-- > ### Sources of images used in this site
 > - [Unsplash](https://unsplash.com/)
 > - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
