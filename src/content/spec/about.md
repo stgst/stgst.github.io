@@ -3,13 +3,20 @@
 ## Activities & Involvement
 
 ### ISIP
-- AIS3 Junior 2022
+- AIS3 Juniors 2022
 - MyFirstCTF 2024 rk.10
 - AIS3 2024
 
 ### Events
 - SITCON 2022, 2024
 - CYBERSEC 2022 - 2024
+
+### Clubs
+- 臺北市數位實驗高中 資訊研究社
+    - 第一屆 `( 社長、創辦者 )`
+    - 第二屆 `( 社長 )`
+- 教育部先進資通安全培育計畫 高中職資安教學資源與推廣中心 跨校資安社團
+    - 第一屆 `( 副社長 )`
 
 ## Education
 
