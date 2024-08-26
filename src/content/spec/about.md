@@ -12,7 +12,7 @@
 ### Events
 - SITCON 2022, 2024 會眾
 - CYBERSEC 2022 - 2024 會眾
-- HITCON 2024 會眾
+- HITCON CMT 2024 會眾
 
 ### Clubs
 - 臺北市數位實驗高中 資訊研究社
@@ -29,7 +29,3 @@
     - Taipei Digital Experimental High School `( Expected Graduation: June 2026 )`
 
 ::github{repo="stgst/stgst.github.io"}
-<!-- > ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty) -->
