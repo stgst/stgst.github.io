@@ -7,7 +7,8 @@
 - AIS3 MyFirstCTF 2024 rk.10
 - AIS3 Pre-Exam 2024 rk.143
 - AIS3 2024
-- AIS3 Club 全國資安社團暨社群幹部研習營
+- AIS3 Club 2024 全國資安社團暨社群幹部研習營
+- 臺灣好厲駭第九屆 高階培訓學員
 
 ### Events
 - SITCON 2022, 2024 會眾
@@ -24,7 +25,6 @@
     - 第一屆 `( 副社長 )`
 
 ## Education
-
 - 臺北市數位實驗高級中學
     - Taipei Digital Experimental High School `( Expected Graduation: June 2026 )`
 
