@@ -5,13 +5,13 @@
 # Activities & Involvement
 
 ### 課程／競賽經歷
-- AIS3 Juniors 2022 學員
-- AIS3 MyFirstCTF 2024 rk.10
-- AIS3 Pre-Exam 2024 rk.143
-- AIS3 2024 學員
-- AIS3 Club 2024 FhCTF 出題者
-- AIS3 Club 2024 全國資安社團暨社群幹部研習營
-- TAIWAN HolyHigh Training 第九屆 高階培訓學員
+- （2022）AIS3 Juniors 學員
+- （2024）AIS3 MyFirstCTF rk.10
+- （2024）AIS3 Pre-Exam rk.143
+- （2024）AIS3 學員
+- （2024）AIS3 Club FhCTF 出題者
+- （2024）AIS3 Club 全國資安社團暨社群幹部研習營
+- （2024）TAIWAN HolyHigh Training 第九屆 高階培訓學員
 
 ### 社群活動
 - SITCON 年會
